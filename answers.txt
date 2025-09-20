@@ -9,3 +9,7 @@ Answer: Data Science can be applied to cancer research.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: The difference is is that merging merges the history between branches while rebasing is used to clean up the history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning more data science and web design. 

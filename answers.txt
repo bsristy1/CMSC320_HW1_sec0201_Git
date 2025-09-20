@@ -5,3 +5,7 @@ Answer: We might consider using Git because it is useful in helping the user be 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data Science can be applied to cancer research. 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: The difference is is that merging merges the history between branches while rebasing is used to clean up the history.
